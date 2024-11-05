@@ -27,7 +27,7 @@
   },
   "devDependencies": {
     "@builder.io/partytown": "^0.8.2",
-    "@builder.io/qwik": "^1.5.2",
+    "@builder.io/qwik": "^1.9.1",
     "@builder.io/qwik-city": "^1.5.2",
     "@types/eslint": "^8.56.9",
     "@types/node": "^20.12.7",
